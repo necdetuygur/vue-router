@@ -10,7 +10,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory("https://necdetuygur.github.io/vue-router/"),
+  history: createWebHistory("vue-router"),
   routes: routes,
 })
 
