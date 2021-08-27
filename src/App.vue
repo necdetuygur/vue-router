@@ -24,11 +24,11 @@ export default {
 }
 .slide-enter-active {
   animation: slide-in 0.25s ease-out forwards;
-  transition: opacity 0.5s;
+  transition: opacity 0.25s;
 }
 .slide-leave-active {
   animation: slide-out 0.25s ease-out forwards;
-  transition: opacity 0.5s;
+  transition: opacity 0.25s;
   opacity: 0;
   position: absolute;
 }
