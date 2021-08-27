@@ -12,7 +12,6 @@ const routes = [
 const router = createRouter({
   history: createWebHistory("vue-router"),
   routes: routes,
-  mode: "hash"
 })
 
 export default router
